@@ -30,7 +30,7 @@ Built with Java using JavaFX
 - Exporting via Screenshot
 
 ### Installation
-System Requirements: Java Runtime Environment 1.8 
+System Requirements: Java Runtime Environment 1.8 or above
 
 Double click on the .jar file to run. If this does not start the application, open Command Prompt/Powershell on Windows or your Terminal on UNIX based machines (such as Mac and Ubuntu), navigate to the folder with UnionApp.jar and run 
 ```java -jar UnionApp.jar```
